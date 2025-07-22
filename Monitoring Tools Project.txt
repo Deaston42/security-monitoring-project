@@ -1,1 +1,30 @@
 Open source monitoring tools:
+
+Prometheus - a timeseries monitoring system for monitoring infra metrics. Functions very well with Grafana for dashboards and alerts. 
+https://github.com/prometheus/prometheus
+
+Grafana - Visualization tool can be connected with others, for instance, Prometheus or Elasticsearch, in order to display business and system metrics. 
+https://github.com/grafana/grafana
+
+Zabbix - Enterprise network, servers, virtual machine, cloud service monitoring program. It can also be used for alerting as well as uptime monitoring between systems.
+https://github.com/zabbix/zabbix
+
+ELK Stack - High-performance, open source log collection, processing, and analysis tool. It is a suite consisting of Elastisearch, Logstash, and Kibana.
+Elastisearch - It is a distributed search, indexing event, and log data analytics engine. It is a good choice for indexing very large text data.
+https://github.com/elastic/elasticsearch
+Logstash - It serves as a data processing pipeline, where different kinds of data are ingested, transformed, and pushed in a “stash” like Elasticsearch.
+https://github.com/elastic/logstash
+Kibana - Visualization layer for ElasticSearch. It assisting in creating dashboards and finding logs in a very simple manner.
+https://github.com/elastic/kibana
+
+Net Data - Light, real-time performance monitoring tool for servers, containers. Perfect for visualizing resources with easy setup.
+https://github.com/netdata/netdata
+
+Nagios Core - It is a very popular product for infrastructure monitoring, capable of monitoring system health, services, hosts. It is famous for good alerting, a plugin architecture.
+https://www.nagios.org/projects/nagios-core/
+
+Wireshark - A network protocol analyzer that captures and inspects packets in real time. Often used for troubleshooting and analyzing network issues or suspicious traffic.
+https://gitlab.com/wireshark/wireshark
+
+Sysdig (Open source version) - A system-level debugging tool for Linux. It can be very handy for analyzing containers, networks, and real-time processes.
+https://github.com/draios/sysdig
